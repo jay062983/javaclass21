@@ -1,0 +1,8 @@
+Method overloading:
+method overloading happens when same name method exists in a class with different parameters.
+There are 3 ways to use overload methods
+> By changing the number of parameters
+>By changing the data type
+>By changing the sequence of parameters.
+Why should we overload a method or constructor?
+Clean code and flexibility to the end user.
